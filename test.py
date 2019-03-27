@@ -15,5 +15,4 @@ class Solution:
                 return x
 
 if __name__ == '__main__':
-    di = dict()
-    print(di[1])
+    print(int(2.5//2))
