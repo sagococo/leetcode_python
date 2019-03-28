@@ -13,5 +13,3 @@ class Solution:
                     count += 1
             if count == lenth:
                 return x
-
-if __name__ == '__main__':
