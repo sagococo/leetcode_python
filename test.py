@@ -15,4 +15,4 @@ class Solution:
                 return x
 
 if __name__ == '__main__':
-    print(int(2.5//2))
+    print(int('63'))
